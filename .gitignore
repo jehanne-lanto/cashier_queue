@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+# IDE
+.idea/
+.vscode/
+*.iml
+# Java build
+bin/
+out/
+target/
+build/
+.gradle/
+# Logs
+*.log
