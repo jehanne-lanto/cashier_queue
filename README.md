@@ -1,4 +1,5 @@
-# Simulation de files d’attente Java
+
+# Simulation de files d’attente Java (English version below)
 
 Projet de cours : Modélise et implémente la gestion d'un ensemble de caisses.
 
@@ -37,7 +38,6 @@ LINE 1 :
 The total number of clients served is 106
 The average number of items per client was 18
 The average time (in seconds) was 40
-
 
 <details>
   <summary>English (summary)</summary>
