@@ -1,3 +1,4 @@
+[![Java CI](https://github.com/jehanne-lanto/cashier_queue/actions/workflows/java.yml/badge.svg?branch=main)](https://github.com/jehanne-lanto/cashier_queue/actions/workflows/java.yml)
 
 # Simulation de files d’attente Java (English version below)
 
